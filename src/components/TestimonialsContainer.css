@@ -1,0 +1,50 @@
+.testimonials1 {
+  font-family: "Garnett Regular";
+  color: #181818;
+}
+.customer-testimonials {
+  position: absolute;
+  top: 68px;
+  left: calc(50% - 599px);
+  font-size: 42px;
+  font-family: "Garnett Semibold";
+}
+.component-16-parent,
+.frame-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-16-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 30px;
+}
+.frame-parent4 {
+  position: absolute;
+  top: 242px;
+  left: 120px;
+  width: 1198px;
+  flex-direction: row;
+  gap: 24px;
+  color: #000;
+}
+.testimonials,
+.what-others-has {
+  position: absolute;
+  top: 129px;
+  left: calc(50% - 599px);
+  color: #181818;
+}
+.testimonials {
+  top: 4445px;
+  left: calc(50% - 719px);
+  background-color: #fdfdfd;
+  width: 1438px;
+  height: 1161px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #5c27c0;
+  font-family: Poppins;
+}

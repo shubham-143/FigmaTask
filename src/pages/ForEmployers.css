@@ -1,0 +1,300 @@
+.ellipse-parent,
+.group-child {
+  position: absolute;
+  height: 596px;
+}
+.group-child {
+  top: 0;
+  left: 174px;
+  border-radius: 50%;
+  background-color: #f6f6f6;
+  width: 596px;
+}
+.ellipse-parent {
+  top: 97px;
+  left: 696px;
+  width: 770px;
+}
+.power-up-your {
+  margin: 0;
+}
+.with-rework {
+  margin: 0;
+  font-size: 48px;
+  font-family: "Garnett Regular";
+}
+.power-up-your-container {
+  align-self: stretch;
+  position: relative;
+}
+.empower-your-business {
+  width: 685px;
+  position: relative;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Poppins;
+  color: #1c1c1c;
+  display: inline-block;
+}
+.hero-title {
+  position: absolute;
+  top: 182px;
+  left: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  font-family: "Garnett Semibold";
+}
+.book-a-demo {
+  position: relative;
+  line-height: 28px;
+}
+.cta-button {
+  position: absolute;
+  top: 413px;
+  left: 120px;
+  border-radius: 20px;
+  background-color: #5c27c0;
+  box-shadow: 0 8px 18px rgba(174, 93, 255, 0.46);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 21px 56px;
+  font-size: 24px;
+  color: #f7f7f7;
+}
+.group-icon {
+  width: 20px;
+  height: 20px;
+}
+.group-icon,
+.no-credit-required {
+  position: relative;
+}
+.group-group {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 0;
+  gap: 10px;
+}
+.points {
+  position: absolute;
+  top: 510px;
+  left: 121px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2px;
+  font-size: 14px;
+}
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f7f7f7;
+  width: 1440px;
+  height: 718px;
+  overflow: hidden;
+  font-size: 54px;
+}
+.for-employers-child,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 191px;
+  width: 140px;
+  height: 41px;
+}
+.vector-icon {
+  top: 1968px;
+  left: 507px;
+  width: 25px;
+  height: 25px;
+}
+.step-3 {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 48.5px);
+  line-height: 50px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 98px;
+}
+.step-3-wrapper {
+  position: absolute;
+  top: 2842px;
+  left: calc(50% + 815px);
+  border-radius: 10px;
+  background-color: #eee5ff;
+  width: 247px;
+  height: 78px;
+  overflow: hidden;
+  font-size: 28px;
+}
+.reduction-in-your {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  font-family: Poppins;
+  color: #3b3b3b;
+  text-align: center;
+}
+.stats1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.stats-child {
+  align-self: stretch;
+  width: 2px;
+  position: relative;
+  border-right: 2px solid #5c27c0;
+  box-sizing: border-box;
+}
+.stats {
+  position: absolute;
+  top: calc(50% - 84px);
+  left: calc(50% - 194px);
+  width: 796px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.hiring-platform-for {
+  font-family: "Garnett Regular";
+}
+.how-rework-ai-container {
+  position: absolute;
+  top: calc(50% - 106px);
+  left: calc(50% - 601px);
+  font-size: 38px;
+  display: inline-block;
+  width: 381px;
+  font-family: "Garnett Medium";
+}
+.stats-parent {
+  position: absolute;
+  top: 5606px;
+  left: 1px;
+  background-color: #f7f7f7;
+  width: 1438px;
+  height: 402px;
+  overflow: hidden;
+  font-size: 50px;
+  font-family: "Space Grotesk";
+}
+.optimize-your-hiring {
+  width: 1175px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.discover-the-strengths {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  font-family: Poppins;
+  color: #1f1f1f;
+}
+.optimize-your-hiring-strategy-parent {
+  position: absolute;
+  top: 113px;
+  left: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.request-your-free {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.cta-button1 {
+  position: absolute;
+  bottom: 125px;
+  left: calc(50% - 595px);
+  border-radius: 20px;
+  background-color: #5c27c0;
+  box-shadow: 0 8px 18px rgba(174, 93, 255, 0.46);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 56px;
+  font-size: 24px;
+  color: #fffbfb;
+  font-family: Poppins;
+}
+.cta {
+  position: absolute;
+  top: 8022px;
+  left: 0;
+  background-color: #fdfdfd;
+  width: 1440px;
+  height: 587px;
+  overflow: hidden;
+  font-family: "Garnett Semibold";
+}
+.frame-group {
+  position: absolute;
+  top: 244px;
+  left: 120px;
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame-child {
+  position: absolute;
+  top: 51px;
+  left: 595px;
+  width: 975px;
+  height: 50px;
+}
+.our-amazing-benefits-container {
+  position: absolute;
+  top: 101px;
+  left: 221px;
+  line-height: 50px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 997px;
+}
+.frame-parent {
+  position: absolute;
+  top: 920px;
+  left: -2px;
+  width: 1440px;
+  height: 943px;
+  overflow: hidden;
+  text-align: center;
+  font-family: "Garnett Semibold";
+}
+.for-employers {
+  width: 100%;
+  position: relative;
+  background-color: #fdfdfd;
+  height: 9844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 42px;
+  color: #5c27c0;
+  font-family: Poppins;
+}

@@ -1,0 +1,51 @@
+.upload-documents {
+  line-height: 29px;
+  font-weight: 600;
+  z-index: 0;
+}
+.shortlist-the-most,
+.upload-documents {
+  align-self: stretch;
+  position: relative;
+}
+.shortlist-the-most-qualified-c-wrapper,
+.steps-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.steps-inner {
+  height: 100px;
+  justify-content: flex-start;
+  z-index: 1;
+  font-size: 18px;
+  color: #5b5b5b;
+}
+.steps-child {
+  width: 84px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0.3px;
+  border-radius: 0 0 0 10px;
+  height: 84px;
+  z-index: 2;
+}
+.steps {
+  align-self: stretch;
+  flex: 1;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 30px 60px;
+  position: relative;
+  z-index: 2;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+  font-family: Poppins;
+}

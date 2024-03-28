@@ -1,0 +1,96 @@
+.vector-icon17 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+  z-index: 0;
+}
+.vector-icon18,
+.vector-icon19,
+.vector-icon20 {
+  width: 61.11%;
+  position: absolute;
+  margin: 0 !important;
+  height: 38.89%;
+  top: 41.67%;
+  right: 27.78%;
+  bottom: 19.44%;
+  left: 11.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.vector-icon19,
+.vector-icon20 {
+  width: 8.33%;
+  height: 15.28%;
+  top: 70.83%;
+  right: 13.89%;
+  bottom: 13.89%;
+  left: 77.78%;
+  z-index: 2;
+}
+.vector-icon20 {
+  width: 33.33%;
+  height: 19.44%;
+  top: 0;
+  right: 38.89%;
+  bottom: 80.56%;
+  left: 27.78%;
+  z-index: 3;
+}
+.vector-group {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.healthiconsi-schedule-school- {
+  width: 48px;
+  position: relative;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.automated {
+  margin: 0;
+}
+.scheduling {
+  margin: 0;
+  font-family: "Garnett Regular";
+}
+.automated-scheduling {
+  align-self: stretch;
+  position: relative;
+}
+.hero-title3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email-whatsapp {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: Poppins;
+  color: #1d1d1d;
+}
+.healthiconsi-schedule-school-parent {
+  width: 343.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+  text-align: left;
+  font-size: 24px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}

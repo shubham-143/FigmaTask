@@ -1,0 +1,75 @@
+.vector-icon15 {
+  width: 43px;
+  position: relative;
+  height: 32.2px;
+  z-index: 0;
+}
+.vector-icon16 {
+  width: 66.74%;
+  position: absolute;
+  margin: 0 !important;
+  height: 55.59%;
+  top: 21.43%;
+  right: 14.65%;
+  bottom: 22.98%;
+  left: 18.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.vector-parent {
+  position: absolute;
+  top: 5px;
+  left: 3.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.mdiuser-card-details-outline {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.highly-contextualized {
+  margin: 0;
+}
+.interview {
+  margin: 0;
+  font-family: "Garnett Regular";
+}
+.highly-contextualized-intervie-container {
+  align-self: stretch;
+  position: relative;
+}
+.hero-title2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.al-models-generate {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: Poppins;
+  color: #1d1d1d;
+}
+.mdiuser-card-details-outline-parent {
+  width: 343.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+  text-align: left;
+  font-size: 24px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}

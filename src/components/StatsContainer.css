@@ -1,0 +1,53 @@
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #5c27c0;
+  width: 219px;
+  height: 94px;
+}
+.group-inner {
+  top: 15px;
+  left: 16px;
+  background-color: #eee5ff;
+  width: 64px;
+  height: 64px;
+}
+.k1 {
+  margin: 0;
+}
+.candidates-hired {
+  margin: 0;
+  font-size: 12.3px;
+  font-family: "Garnett Light";
+}
+.k-candidates-hired-container,
+.vector-icon1 {
+  position: absolute;
+  top: 22px;
+  left: 92px;
+}
+.vector-icon1 {
+  height: 30.11%;
+  width: 12.92%;
+  top: 35.11%;
+  right: 71.55%;
+  bottom: 34.79%;
+  left: 15.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 358px;
+  left: 0;
+  width: 219px;
+  height: 94px;
+  text-align: left;
+  font-size: 24.9px;
+  color: #eee5ff;
+  font-family: "Space Grotesk";
+}

@@ -1,0 +1,110 @@
+.questions {
+  font-family: "Garnett Regular";
+}
+.frequently-asked-questions-container {
+  position: absolute;
+  top: 107px;
+  left: calc(50% - 330px);
+  color: #5c27c0;
+  display: inline-block;
+  width: 661px;
+  font-family: "Garnett Semibold";
+}
+.we-have-compiled {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 409px);
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 818px;
+}
+.how-can-i,
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 24px;
+  left: 28px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.lorem-ipsum-dolor {
+  top: 70px;
+  font-size: 16px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 794px;
+  height: 53px;
+}
+.typcnplus-icon {
+  position: absolute;
+  top: 21px;
+  left: 802px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.how-can-i-get-started-with-rew-parent {
+  width: 854px;
+  position: relative;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  height: 139px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.how-can-i1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.how-can-i-get-started-with-rew-container,
+.how-can-i-get-started-with-rew-group {
+  align-self: stretch;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 29px;
+}
+.how-can-i-get-started-with-rew-container {
+  padding: 21px 30px;
+}
+.frame-parent6 {
+  position: absolute;
+  top: 306px;
+  left: calc(50% - 427px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: left;
+  font-size: 18px;
+}
+.hero {
+  position: absolute;
+  top: 6845px;
+  left: 0;
+  background-color: #f7f7f7;
+  width: 1440px;
+  height: 1177px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 42px;
+  color: #1c1c1c;
+  font-family: Poppins;
+}

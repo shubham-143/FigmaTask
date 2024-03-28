@@ -1,0 +1,60 @@
+.stories {
+  font-family: "Garnett Regular";
+}
+.success-stories1 {
+  position: absolute;
+  top: 77px;
+  left: calc(50% - 171px);
+  text-transform: capitalize;
+}
+.component-11-parent {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 597px);
+  width: 1192px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 23px;
+  color: #202020;
+  font-family: "Garnett Medium";
+}
+.frame-child1,
+.frame-inner {
+  width: 34px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #5c27c0;
+  height: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child1 {
+  width: 81px;
+  background-color: #eee5ff;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 745px;
+  left: calc(50% - 64px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.success-stories {
+  position: absolute;
+  top: 6008px;
+  left: calc(50% - 720px);
+  background-color: #fdfdfd;
+  width: 1440px;
+  height: 837px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 42px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}

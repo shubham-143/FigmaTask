@@ -1,0 +1,57 @@
+.logo-child {
+  top: 0;
+  left: 42.5px;
+  border-radius: 0 5.71px 0 0;
+  background-color: #fff;
+  width: 96.8px;
+  height: 40px;
+}
+.ai,
+.logo-child,
+.logo-item {
+  position: absolute;
+}
+.logo-item {
+  top: 0;
+  left: 0;
+  border-radius: 5.71px;
+  border: 1.4px solid #fff;
+  box-sizing: border-box;
+  width: 117.8px;
+  height: 40px;
+}
+.ai {
+  top: 24px;
+  left: 122px;
+}
+.r {
+  letter-spacing: -0.02em;
+}
+.e {
+  letter-spacing: 0.08em;
+}
+.re {
+  font-weight: 600;
+}
+.work {
+  letter-spacing: -0.02em;
+  font-family: Actor;
+  color: #5c27c0;
+}
+.rework {
+  position: absolute;
+  top: 8px;
+  left: 7.8px;
+  font-size: 35.5px;
+  color: #fff;
+  font-family: Outfit;
+}
+.logo {
+  width: 139.3px;
+  height: 40px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 11.4px;
+  color: #5c27c0;
+  font-family: Gilroy-Regular;
+}

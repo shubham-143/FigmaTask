@@ -1,0 +1,120 @@
+.talent-finder {
+  position: relative;
+}
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.for-employers1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 0;
+}
+.nav-item-child {
+  width: 37px;
+  position: absolute;
+  margin: 0 !important;
+  top: 25px;
+  left: 39px;
+  max-height: 100%;
+  z-index: 1;
+}
+.nav-item2,
+.nav-items {
+  display: flex;
+  flex-direction: row;
+}
+.nav-item2 {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 10px;
+  color: #5c27c0;
+}
+.nav-items {
+  position: absolute;
+  top: 44px;
+  left: 295px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.log-in {
+  position: relative;
+  font-weight: 500;
+  z-index: 0;
+}
+.vector-icon2,
+.vector-icon3 {
+  width: 18px;
+  position: relative;
+  height: 0;
+}
+.vector-icon3 {
+  width: 7px;
+  height: 14px;
+  margin-left: -5px;
+}
+.arrow,
+.simple-button,
+.simple-button1 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.arrow {
+  width: 1px;
+  margin: 0 !important;
+  position: absolute;
+  top: 21.5px;
+  left: 112px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 1;
+}
+.simple-button,
+.simple-button1 {
+  border-radius: 10px;
+  height: 44px;
+  display: flex;
+  box-sizing: border-box;
+  position: relative;
+  gap: 16px;
+}
+.simple-button {
+  width: 129px;
+  border: 2px solid #5c27c0;
+  padding: 14px 30px;
+}
+.simple-button1 {
+  background-color: #5c27c0;
+  padding: 14px 24px;
+  color: #fff;
+}
+.simple-button-parent {
+  position: absolute;
+  top: 34px;
+  left: 1022px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 18px;
+  color: #5c27c0;
+}
+.nav-items-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 112px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e8e;
+  font-family: Poppins;
+}

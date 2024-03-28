@@ -1,0 +1,58 @@
+.hire-for-1000 {
+  position: relative;
+  font-weight: 500;
+}
+.google-2015-1-icon,
+.microsoft-1-icon {
+  width: 131px;
+  position: relative;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.google-2015-1-icon {
+  width: 99px;
+  height: 31px;
+}
+.kisspng-amazon-com-logo-brand-icon {
+  width: 106px;
+  position: relative;
+  height: 38px;
+  object-fit: cover;
+}
+.kisspng-nokia-networks-logo-ny-icon {
+  width: 131px;
+  position: relative;
+  height: 26px;
+  object-fit: cover;
+}
+.vector-icon6 {
+  width: 140px;
+  position: relative;
+  height: 42px;
+}
+.hire-for-1000-brands-includin-parent,
+.logos {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.hire-for-1000-brands-includin-parent {
+  position: absolute;
+  top: 718px;
+  left: calc(50% - 719px);
+  background-color: #eee5ff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1439px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 50px 0;
+  box-sizing: border-box;
+  gap: 30px;
+  text-align: center;
+  font-size: 20px;
+  color: #ad93df;
+  font-family: Poppins;
+}

@@ -1,0 +1,20 @@
+.mask-group-child {
+  position: absolute;
+  top: 145px;
+  left: 175px;
+  border-radius: 0 0 0 115px;
+  width: 567px;
+  height: 402px;
+  object-fit: cover;
+}
+.mask-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 736px;
+  height: 555px;
+  text-align: left;
+  font-size: 24.9px;
+  color: #eee5ff;
+  font-family: "Space Grotesk";
+}

@@ -1,0 +1,81 @@
+.talent-assessment {
+  font-family: "Garnett Regular";
+}
+.discover-the-future-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 42px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}
+.facing-challenges-in {
+  margin: 0;
+}
+.facing-challenges-in-container {
+  align-self: stretch;
+  position: relative;
+}
+.manual-vs-machine-based {
+  font-family: Poppins;
+}
+.the-truth-about-interview-as {
+  margin-bottom: 0;
+}
+.manual-vs-machine-based-hirin {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 24px;
+}
+.discover-the-future-of-talent-parent {
+  position: absolute;
+  top: 113px;
+  left: 120px;
+  width: 773px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.download-now-for {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.cta-button2 {
+  position: absolute;
+  bottom: 110px;
+  left: calc(50% - 600px);
+  border-radius: 20px;
+  background-color: #5c27c0;
+  box-shadow: 0 8px 18px rgba(174, 93, 255, 0.46);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 56px;
+  font-size: 24px;
+  color: #fffbfb;
+}
+.cta-child {
+  position: absolute;
+  top: 81px;
+  left: 933px;
+  border-radius: 12px;
+  width: 387px;
+  height: 563px;
+  object-fit: cover;
+}
+.cta1 {
+  position: absolute;
+  top: 3691px;
+  left: 0;
+  background-color: #f7f7f7;
+  width: 1440px;
+  height: 754px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #1f1f1f;
+  font-family: Poppins;
+}
